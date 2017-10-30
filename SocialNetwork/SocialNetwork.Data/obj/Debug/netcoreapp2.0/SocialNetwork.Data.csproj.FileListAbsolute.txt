@@ -1,0 +1,11 @@
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\bin\Debug\netcoreapp2.0\SocialNetwork.Data.deps.json
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\bin\Debug\netcoreapp2.0\SocialNetwork.Data.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\bin\Debug\netcoreapp2.0\SocialNetwork.Data.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\obj\Debug\netcoreapp2.0\SocialNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\obj\Debug\netcoreapp2.0\SocialNetwork.Data.csproj.CoreCompileInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\obj\Debug\netcoreapp2.0\SocialNetwork.Data.AssemblyInfoInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\obj\Debug\netcoreapp2.0\SocialNetwork.Data.AssemblyInfo.cs
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\obj\Debug\netcoreapp2.0\SocialNetwork.Data.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\obj\Debug\netcoreapp2.0\SocialNetwork.Data.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Data\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.pdb

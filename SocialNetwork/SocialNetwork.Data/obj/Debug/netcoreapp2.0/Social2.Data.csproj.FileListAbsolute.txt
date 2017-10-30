@@ -1,0 +1,11 @@
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\bin\Debug\netcoreapp2.0\Social2.Data.deps.json
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\bin\Debug\netcoreapp2.0\Social2.Data.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\bin\Debug\netcoreapp2.0\Social2.Data.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\bin\Debug\netcoreapp2.0\Social2.DomainClasses.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\bin\Debug\netcoreapp2.0\Social2.DomainClasses.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\obj\Debug\netcoreapp2.0\Social2.Data.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\obj\Debug\netcoreapp2.0\Social2.Data.csproj.CoreCompileInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\obj\Debug\netcoreapp2.0\Social2.Data.AssemblyInfoInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\obj\Debug\netcoreapp2.0\Social2.Data.AssemblyInfo.cs
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\obj\Debug\netcoreapp2.0\Social2.Data.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\Social2\Social2.Data\obj\Debug\netcoreapp2.0\Social2.Data.pdb

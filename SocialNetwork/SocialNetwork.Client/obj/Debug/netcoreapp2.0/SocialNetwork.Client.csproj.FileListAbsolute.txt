@@ -1,0 +1,15 @@
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.Client.deps.json
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.Client.runtimeconfig.json
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.Client.runtimeconfig.dev.json
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.Client.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.Client.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.Data.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.Data.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\obj\Debug\netcoreapp2.0\SocialNetwork.Client.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\obj\Debug\netcoreapp2.0\SocialNetwork.Client.csproj.CoreCompileInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\obj\Debug\netcoreapp2.0\SocialNetwork.Client.AssemblyInfoInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\obj\Debug\netcoreapp2.0\SocialNetwork.Client.AssemblyInfo.cs
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\obj\Debug\netcoreapp2.0\SocialNetwork.Client.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\obj\Debug\netcoreapp2.0\SocialNetwork.Client.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.Client\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.pdb

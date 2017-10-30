@@ -1,0 +1,17 @@
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\Client2.DomainClasses\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.deps.json
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\Client2.DomainClasses\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\Client2.DomainClasses\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\Client2.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.csproj.CoreCompileInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\Client2.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.AssemblyInfoInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\Client2.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.AssemblyInfo.cs
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\Client2.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\Client2.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.deps.json
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\bin\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.pdb
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.csproj.CoreCompileInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.AssemblyInfoInputs.cache
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.AssemblyInfo.cs
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.dll
+C:\Users\Iliya\Documents\Visual Studio 2017\Projects\SocialNetwork\SocialNetwork.DomainClasses\obj\Debug\netcoreapp2.0\SocialNetwork.DomainClasses.pdb
